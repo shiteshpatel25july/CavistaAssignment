@@ -1,0 +1,31 @@
+PODS:
+  - Alamofire (5.1.0)
+  - CodableAlamofire (1.2.1):
+    - Alamofire (~> 5.1.0)
+  - SDWebImage (5.8.4):
+    - SDWebImage/Core (= 5.8.4)
+  - SDWebImage/Core (5.8.4)
+  - SnapKit (5.0.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0)
+  - CodableAlamofire
+  - SDWebImage (~> 5.0)
+  - SnapKit (~> 5.0.0)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - CodableAlamofire
+    - SDWebImage
+    - SnapKit
+
+SPEC CHECKSUMS:
+  Alamofire: 9d5c5f602928e512395b30950c5984eca840093c
+  CodableAlamofire: 3532ececac18593b300d775f2a51feca2f83a2f1
+  SDWebImage: cf6922231e95550934da2ada0f20f2becf2ceba9
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+
+PODFILE CHECKSUM: 797633f29173f14864f25172819ee1d51f3a1ec0
+
+COCOAPODS: 1.9.3

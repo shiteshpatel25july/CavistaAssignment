@@ -1,0 +1,6 @@
+framework module Pods_CavistaAssignment {
+  umbrella header "Pods-CavistaAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
